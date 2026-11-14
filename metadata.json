@@ -1,0 +1,8 @@
+{
+  "name": "TIGER WORLD",
+  "description": "Plateforme documentaire interactive consacrée aux tigres du monde entier : sous-espèces vivantes et éteintes, fiches zoologiques détaillées, carte mondiale de répartition, comparateur et galerie HD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
